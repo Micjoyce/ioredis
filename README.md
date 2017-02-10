@@ -1,5 +1,3 @@
-# fork from ioredis for test
-
 [![ioredis](https://cdn.rawgit.com/luin/ioredis/57b5b89e3e9111ff25d8c62c0bc58ed42e5b8d1e/logo.svg)](https://github.com/luin/ioredis)
 
 [![Build Status](https://travis-ci.org/luin/ioredis.svg?branch=master)](https://travis-ci.org/luin/ioredis)
