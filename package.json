@@ -50,7 +50,7 @@
     "url": "http://zihua.li"
   },
   "bugs": {
-    "url": "https://github.com/luin/ioredis/issues"
+    "url": "https://github.com/Micjoyce/ioredis/issues"
   },
   "config": {
     "commitizen": {
@@ -88,7 +88,7 @@
     "node": ">= 0.10.16"
   },
   "gitHead": "b6e255021c94ad72ac7c00655e13191c61afa0fb",
-  "homepage": "https://github.com/luin/ioredis#readme",
+  "homepage": "https://github.com/Micjoyce/ioredis#readme",
   "keywords": [
     "redis",
     "cluster",
@@ -99,16 +99,16 @@
   "main": "index.js",
   "maintainers": [
     {
-      "email": "i@zihua.li",
-      "name": "luin"
+      "email": "michael_xu@caifujilu.com",
+      "name": "michael"
     }
   ],
-  "name": "ioredis",
+  "name": "seerioredis",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/luin/ioredis.git"
+    "url": "git://github.com/Micjoyce/ioredis.git"
   },
   "scripts": {
     "bench": "matcha benchmarks/*.js",
